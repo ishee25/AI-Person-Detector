@@ -1,0 +1,36 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 45px;
+    width: 100%;
+    background-color: hotpink;
+    color: white;
+    font-family: 'Cookie', cursive;
+    margin: 0;
+    text-align: center;
+    line-height: 1.5;
+}
+    
+.heading2{
+    font-size: 45px;
+    width: 100%;
+    background-color: hotpink;
+    color: white;
+    font-family: 'Sacramento', cursive;
+    margin: 0;
+    text-align: center;
+    line-height: 1.5;
+}
+
+#status, #person_found{
+    font-family: 'Cookie', cursive;
+}
+
+canvas{
+    border: 5px solid black;
+    border-radius: 25px;
+    box-shadow: 6px 6px 6px grey;
+    margin-top: 175px;
+}
